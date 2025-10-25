@@ -1,0 +1,8 @@
+[submodule "panda"]
+	path = panda
+	url = https://github.com/commaai/panda.git
+	branch = body-can-ignition
+[submodule "opendbc_repo"]
+	path = opendbc_repo
+	url = https://github.com/commaai/opendbc.git
+	branch = body
